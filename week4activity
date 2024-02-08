@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Week 4 Activity</title>
+    </head>
+
+    <body>
+        <h1>Table</h1>
+        <h2>Tables</h2>
+            <table>
+                <caption>IST Classes</caption>
+                <tr>
+                    <th>Classes</th>
+                    <th>Main Takeaway</th>
+
+                </tr>
+                <tr>
+                    <td>IST 344</td>
+                    <td>Public Speaking</td>
+
+                </tr>
+                <tr>
+                    <td>IST 263</td>
+                    <td>HTML</td>
+
+                </tr>
+                <tr>
+                    <th>IST 256</th>
+                    <th>Python</th>
+                </tr>
+            </table>
+
+        </body>
+        </html>
