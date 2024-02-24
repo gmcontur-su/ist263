@@ -1,0 +1,23 @@
+<!DOCTYPE HTML
+
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width-device-width, initial-scale=1.0">
+<title>CSS Embedded</title>
+<!-- embedded css goes between head tags-->
+<style>
+    h2 {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    p {
+        color: orange;
+        font-size: 200%; /* this is a css comment,
+                            ems are like %, 2 means twice normal size *
+     }
+
+</head>
+<body>
+    <h1>Our First CSS Page</h1>
+    <h2>Changing Fonts</h2>
+    <p>Lorem ipsum dolor sit amet, consectutar adipisicing elite</p>
+    <h2>Changing Colors</h2>
+    <p>nkjbwkvnbwjvnwkvnk</p>

@@ -1,0 +1,9 @@
+h1 {color: orange;}
+p {color: blue;}
+
+p, h1 {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p a {color: orange;}
+
+#OrangeNation {color: green;}
+
+.fcolor {color: orange;}

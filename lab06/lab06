@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Skills</title>
+        <style>
+            table, th,td {border: 1px solid black;}
+        </style>
+    </head>
+    <body>
+        <table>
+            <caption>Technical Skills</caption>
+
+            <tr>
+                <th>Category</th>
+                <th>Skill</th>
+                <th>Competancy Level</th>
+            </tr>
+            <tr>
+                <td>Coding</td>
+                <td>Python</td>
+                <td>Beginner</td>
+            </tr>
+            <tr>
+                <td>Coding</td>
+                <td>HTML</td>
+                <td>Beginner</td>
+            </tr>
+            <tr>
+                <td>Application Software</td>
+                <td>Microsoft Word</td>
+                <td>Proficient</td>
+            </tr>
+            <tr>
+                <td>Application Software</td>
+                <td>Microsoft Powerpoint</td>
+                <td>Proficient</td>
+            </tr>
+            <tr>
+                <td>Application Software</td>
+                <td>Google Drive</td>
+                <td>Master</td>
+            </tr>
+            <tr>
+                <td>Application Software</td>
+                <td>Google Slides</td>
+                <td>Master</td>
+            </tr>
+            <tr>
+                <td>Social Media</td>
+                <td>Instagram</td>
+                <td>Master</td>
+            </tr>
+            <tr>
+                <td>Social Media</td>
+                <td>SnapChat</td>
+                <td>Master</td>
+            </tr>
+            <tr>
+                <td>Social Media</td>
+                <td>TikTok</td>
+                <td>Master</td>
+            </tr>
+            <tr>
+                <td>Graphic Design</td>
+                <td>Canva</td>
+                <td>Proficient</td>
+            </tr>
+        </table>
+
+        <h1>Grace Conturso's Biography</h1>
+            
+        <h2>Personal Info</h2>
+    
+        <p>  Hello! My name is Grace Conturso. I am currently a junior at Syracuse University majoring in Innovation, Society & Technology. I am passionate about the global usage of technology and the innovative ways we can <strong>create</strong> and <strong>inspire</strong> new ideas within the technology and data field. </p>
+       
+       <p> I hold an executive position in the Women in Technology club here at school, where I run our social media page and faciliate meetings with my other elected peers. My best skills I can bring to the table are Communication, Problem-Solving, Creativity and Leadership. </p>
+
+        <p>Outside of work and school, I’m a major foodie. I love trying new foods and restaurants and am always looking for the next best rated place to land a reservation. </p> 
+        
+        My favorite foods include ...
+        <ul>
+            <li>Seafood Risotto from Capri, Italy</li>
+            <li>Pizza from Rome, Italy</li>
+            <li>Cheese and Homeade Sausage (Made by my Grandfather)</li>
+        </ul>
+
+
+        <p>
+        I love fashion and analyzing new fashion trends. I also am a die-hard rom-com fanatic and have probably watched every romantic comedy movie under the sun. I live in New Jersey, just about a 30 minute drive from New York City. I have two brothers, one is 22, and the other is 15. My parents and grandparents are my greatest inspiration in life and I am so thankful for their support and love that they give me everyday! 
+        </p>
+
+        <hr>
+        &copy; 2020
+
+</body>
+</html>
