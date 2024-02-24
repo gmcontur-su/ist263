@@ -2,7 +2,4 @@ h1 {color: purple;}
 p{color: blue; }
 p, h1 {font-family:'Times New Roman', Times, serif;}
 p a {color: black;}
-<head>
-<title>Titles are required.</title>
-<link rel="stylesheet" href="/path/stylesheet.css">
-</head>
+   
