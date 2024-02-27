@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>More CSS</title>
+        <style>
+             h2 {background-color: #2327ee;}
+            a {color: #2327ee;}
+            body {background-color: #efefef;
+                background-image: url("logo.png");
+            }
+            .second{background-color: #efefef;
+                border: 5px solid black;
+                padding: 30px; 
+                margin: 30px;} 
+       </style>
+
+
+<body>
+        <h1>More CSS</h1>
+        <h2>Syracuse!</h2>
+            <p class="bgclass">I bleed orange.</p>
+        
+
+    </body>
+
+</html>
