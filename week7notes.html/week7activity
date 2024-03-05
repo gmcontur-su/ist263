@@ -11,7 +11,7 @@
                 background-image: url("logo.png");
             }
             .second{background-color: #efefef;
-                border: 5px solid black;
+                border: 5px solid #ef931c;
                 padding: 30px; 
                 margin: 30px;} 
        </style>
